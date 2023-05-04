@@ -1,7 +1,7 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=UGyeong&fontSize=30&color=f8df81&fontColor=222016)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&fontSize=30&color=f8df81&fontColor=222016)
+  # UGyeong
 ####  👋  Welcome, My Github Profile !
   
   
