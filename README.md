@@ -1,9 +1,8 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&fontSize=30&color=f8df81&fontColor=222016)
-  # UGyeong
-####  👋  Welcome, My Github Profile !
-  
+![header](https://capsule-render.vercel.app/api?type=Venom&color=FFD872&height=300&section=header&text=YuYoung&fontSize=50&fontAlign=65&fontColor=F2A8A5)
+
+
   
  <br/>
   
