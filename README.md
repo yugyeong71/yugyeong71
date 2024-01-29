@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="left"> 
   
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFD872&height=300&section=header&text=YuGyeong&fontSize=50&fontAlign=65&fontColor=95BB72)
   <br/>
@@ -16,6 +16,6 @@
    <br/>
 
    
-  #### Back-End Developer
+  #### Back-End Developer 🐱
   <br/>
 </div>
