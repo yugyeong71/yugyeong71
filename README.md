@@ -1,5 +1,4 @@
 <div align="left">
-  <br/>
   
   ### 고유경 (Go YuGyeong)
 <hr/>
@@ -15,5 +14,6 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <br/>
   <br/>
 </div>
