@@ -1,11 +1,11 @@
 <div align="left">
   
-  ### 고유경 (Go YuGyeong)
-<hr/>
+  ### 고유경 (Go YuGyeong) 🐱
 
-#### Back-End Developer 🐱
+_Hi! I'm a Back-End Developer_
 
-<br/>
+_______________________________
+
 
 #### 💻 SKILL
  
